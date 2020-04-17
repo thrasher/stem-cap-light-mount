@@ -12,10 +12,10 @@ Note that, this part will never be as bombproof as a Paul's part machined out of
 
 Stem caps on threadless bicycle stems are used to properly load the headset.  This plastic part is not strong enough to do that, but can still be used:
 
-# Use the original stem cap to adjust the headset load
-# Tighten the stem's clamp bolts to the proper torque
-# Remove (and save) the original stem cap
-# Install this one, using the original bolt, but tighten it just enough to hold (not as much as required for stem cap adjustment)
+1. Use the original stem cap to adjust the headset load
+1. Tighten the stem's clamp bolts to the proper torque
+1. Remove (and save) the original stem cap
+1. Install this one, using the original bolt, but tighten it just enough to hold (not as much as required for stem cap adjustment)
 
 ## Printing
 
@@ -25,4 +25,8 @@ Orient the part with the flat side surface on the print bed.
 Supports on the bed are required in this position.
 
 Print with ABS or ASA for UV protection. If you print with PLA, paint the part with a UV resistant paint to protect it.
+
+## Design
+
+The fillets between the parts were made using the excellent [Fillets and Round code by Scorch](http://www.scorchworks.com/Blog/openscad-modules-for-automatic-fillets-and-radii/). Unfortunately, they take a long time to render, so are disbled in OpenSCAD's preview mode.
 
